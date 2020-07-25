@@ -1,0 +1,11 @@
+1. change directory to where the file you want to upload is located.
+2. git init
+3. git remote add origin <replace by url no need of quotes>
+4. git remote -v
+5. git pull origin master
+6. git add <replace by filename or . to include all files in directory>
+7. git commit -m "comment"
+8.git push origin master
+ 
+
+steps 2 and 3 are not required if once done.
